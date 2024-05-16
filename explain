@@ -1,0 +1,4 @@
+Agent Class: Represents an agent in the simulation. It can find an empty patch and move to it.
+World Class: Represents the world/grid where agents exist. It initializes the grid and agents, and handles the simulation steps.
+Main Function: Initializes the world and runs the simulation for a specified number of steps.
+
